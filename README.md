@@ -48,9 +48,8 @@ In this project, we focus on analyzing time-series data observed at the sensors 
 └── stn.yaml
 ```
 
-
-## Training & Testing
-Install Genentic Algorithm and run:
+## Usage
+You can run this project using following command:
 ```
 python main.py
 ```
